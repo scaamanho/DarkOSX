@@ -6,4 +6,5 @@ Copy DarkOSX folder in one of the following folders
 * ~/.local/share/themes
 * /usr/share/themes
 
-![drawing](drawing.jpg)
+![screenshot1](assets/screen1.jpg)
+![screenshot2](assets/screen2.jpg)
